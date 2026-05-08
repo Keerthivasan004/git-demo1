@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-this is the second message
-message three
-=======
-hello world
->>>>>>> main
